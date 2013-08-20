@@ -1,4 +1,4 @@
-Knockoutjs-simple-sample
+Knockoutjs a very simple sample!
 ========================
 
 Very basic example of using Knockout.js with revealing module pattern.
